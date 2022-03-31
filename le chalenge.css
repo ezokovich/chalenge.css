@@ -1,0 +1,7 @@
+.ezok{ width:67%;margin: 50px auto; border: 1px black;display: grid; grid-template-rows: 60px 60px 200px 60px; grid-template-columns:95px 350px  95px  ; grid-gap: 8px;margin: 10px ; } 
+.top{background-color: blanchedalmond; grid-column: 1/ -1; }
+.op{background-color:rebeccapurple; grid-row: 2/4;grid-column:1/1;}
+.p{background-color: gold;}
+.cool{background-color: palegreen;grid-column: 2/2 ;}
+.ool{background-color: darkblue;grid-row: 2/4;grid-column:3/3; }
+.l{background-color: indianred; grid-column: 1/-1;}
